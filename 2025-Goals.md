@@ -47,5 +47,5 @@ a script to "unpack" a read to make an analyzable data result.
 
 # Big Picture Goals
 
-## Show that the DNA has not broken down over the span of time indicating newer fossils than the old world theory supposes.
-May 14, 2025.
+## Can we reliably get DNA out of the fossils?
+May 22, 2025.
