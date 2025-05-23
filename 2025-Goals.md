@@ -45,7 +45,13 @@ May 14, 2025.
 Create a pipeline in Genious Prime in combination with
 a script to "unpack" a read to make an analyzable data result.
 
+## The Bioinformatics goal in the words of Dr. Deweese
+May 22, 2025.
+
+Develop workflows for analysis of sequencing data and
+indentification of positive hits on target species.
+
 # Big Picture Goals
 
-## Show that the DNA has not broken down over the span of time indicating newer fossils than the old world theory supposes.
-May 14, 2025.
+## Can we reliably get DNA out of the fossils?
+May 22, 2025.
