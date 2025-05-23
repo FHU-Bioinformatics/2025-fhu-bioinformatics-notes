@@ -1,22 +1,5 @@
 # 2025 Summer Goals
 
-## Roadmap
-### Phase 1
-Use known values to create a process. Use results to validated
-our process.
-
-### Phase 2
-Determine "friend from foe." Create a system to filter out
-contaminates.
-
-### Phase 3
-Apply what we have learned to aDNA. aDNA could have no reference.
-So, how do we know that a sequence is what we think it is, not contaminates?
-If a sample is sequenced multiple times, and a sequence is
-appearing repeatedly, then it is likely that sequence is not a
-contaminate and is likely a part of the sample.
-
-# Goals
 ## Make Sure Data is Organized
 May 14, 2025.
 
@@ -50,6 +33,25 @@ May 22, 2025.
 
 Develop workflows for analysis of sequencing data and
 indentification of positive hits on target species.
+
+# High level Roadmap
+May 14, 2025.
+
+### Phase 1
+Use known values to create a process. Use results to validated
+our process.
+
+### Phase 2
+Determine "friend from foe." Create a system to filter out
+contaminates.
+
+### Phase 3
+Apply what we have learned to aDNA. aDNA could have no reference.
+So, how do we know that a sequence is what we think it is, not contaminates?
+If a sample is sequenced multiple times, and a sequence is
+appearing repeatedly, then it is likely that sequence is not a
+contaminate and is likely a part of the sample.
+
 
 # Big Picture Goals
 
